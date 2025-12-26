@@ -4,18 +4,23 @@ emoji: 🏥
 colorFrom: blue
 colorTo: green
 sdk: gradio
-sdk_version: "4.44.0"
 app_file: app.py
 pinned: false
+
 ---
 
+# 🏥 Hospital Department Load Analysis
 
-# Hospital Department Load Analysis
+A Pandas + Gradio app to analyze patient counts per hospital department, visualize with bar charts, and generate a stats report.  
+Deployed on Hugging Face Spaces.
 
-A Pandas + Gradio app to analyze patient counts per hospital department, visualize with bar charts, and generate a stats report.
+## Features
+- Upload hospital visit data in CSV format
+- Compute patient counts per department
+- Visualize results with interactive bar charts
+- Generate a concise stats report
 
-## Quick start
-
+## Quick Start (Local)
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
