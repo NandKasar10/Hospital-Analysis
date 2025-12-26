@@ -1,0 +1,11 @@
+department,patient_id,visit_date,gender,age,length_of_stay_days
+Cardiology,P001,2025-12-01,M,56,3
+Orthopedics,P002,2025-12-01,F,34,1
+Neurology,P003,2025-12-02,M,49,2
+Cardiology,P004,2025-12-02,F,60,4
+Emergency,P005,2025-12-02,F,27,1
+Orthopedics,P006,2025-12-03,M,41,2
+Emergency,P007,2025-12-03,M,35,1
+Pediatrics,P008,2025-12-03,F,8,2
+Neurology,P009,2025-12-04,F,52,3
+Cardiology,P010,2025-12-04,M,63,5
